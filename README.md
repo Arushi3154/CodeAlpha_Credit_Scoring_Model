@@ -8,7 +8,7 @@ This repository contains a robust, end-to-end Machine Learning classification pi
 * **Language:** Python 3.14
 * **Frameworks & Frameworks:** Scikit-Learn, XGBoost, Pandas, NumPy
 
-## 📊 Methodology & Pipeline Architecture
+##  Methodology & Pipeline Architecture
 1. **Automated Data Management:** Features a built-in synthetic pipeline that replicates standard financial structures (e.g., matching structures like the Kaggle *Give Me Some Credit* dataset) to guarantee immediate execution.
 2. **Feature Engineering:** Computes domain-specific indicators including:
    * **Debt-to-Income Ratio (DTI):** A critical indicator of financial leverage.
