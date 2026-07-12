@@ -4,7 +4,7 @@
 ##  Project Overview
 This repository contains a robust, end-to-end Machine Learning classification pipeline designed to predict an individual's creditworthiness using historical financial data. The model evaluates features such as age, annual income, existing debt metrics, and historical payment delinquencies to accurately classify borrowers into distinct risk categories, ultimately predicting the probability of default.
 
-## 🛠️ Tech Stack & Libraries
+##  Tech Stack & Libraries
 * **Language:** Python 3.14
 * **Frameworks & Frameworks:** Scikit-Learn, XGBoost, Pandas, NumPy
 
