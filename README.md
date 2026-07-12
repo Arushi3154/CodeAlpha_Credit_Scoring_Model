@@ -16,7 +16,7 @@ This repository contains a robust, end-to-end Machine Learning classification pi
 3. **Imbalance Handling & Scaling:** Utilizes stratified train-test splits to preserve class distributions alongside uniform feature scaling using `StandardScaler`.
 4. **Predictive Modeling:** Implements an optimized **XGBoost Classifier** configured with customized log-loss evaluation to handle non-linear decision boundaries effectively.
 
-## 🚀 Execution Instructions
+##  Execution Instructions
 Ensure you are inside the root repository directory, then run:
 ```bash
 python3 -m pip install -r requirements.txt --break-system-packages
